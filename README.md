@@ -8,13 +8,4 @@ Lokesh0s1/Lokesh0s1 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
         
-          ...LANGUAGES I KNOW....
--HTML
-  -CSS
-    -JAVASCRIPT
-      -PHP
-        -MySQL
-      -MONGODB
-    -NODE JS
-  -PYTHON
--BOOTSTRAP
+          
